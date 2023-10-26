@@ -1,0 +1,20 @@
+{
+  "name": "eugenio_4_1_express_bootstrap",
+  "version": "1.0.0",
+  "description": "___\r ### BSIT 4-1\r ___\r ### Wesleyan University-Philippines\r ___",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RjvEugenio/eugenio_4_1_express_bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
